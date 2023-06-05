@@ -47,6 +47,9 @@
 
 ## Output:
 
+![241560224-036178fa-ff82-4c4e-a778-1b5eb9e12b55](https://github.com/JEGADEESH07/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113497131/8e3ff963-4d3a-4bdc-9a5b-a99d22841882)
+
+
 ### Name:
 ### Register Number:
 
